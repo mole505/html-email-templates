@@ -1,0 +1,326 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;width=device-width, initial-scale=1" charset="utf-8"/>
+  <!-- [if !mso] <!meta(http-equiv='X-UA-Compatible', content='IE=edge')
+  -->
+  <!-- <![endif]-->
+  <title>Slate has been shared with you</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-size: 13px;
+      color: #414141;
+      font-family: 'Open Sans', sans-serif;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased; }
+
+    table,
+    td,
+    th {
+      border-spacing: 0;
+      border-collapse: collapse; }
+
+    td {
+      padding: 0; }
+
+    img,
+    p,
+    a {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 14px; }
+
+    a {
+      text-decoration: none; }
+
+    p {
+      margin: 0;
+      padding: 0;
+      line-height: 1.5;
+      color: #444444; }
+
+    .align-block {
+      margin: 0 auto;
+      width: 600px; }
+    @media (max-width: 700px) {
+      .align-block {
+        width: 100% !important; } }
+
+    .padding-main {
+      width: 15px;
+      background-color: #FFFFFF; }
+    @media (min-width: 700px) {
+      .padding-main {
+        width: 40px !important; } }
+
+    .main-content {
+      width: 100%;
+      border: 1px solid #e9e9e9;
+    }
+
+    .header {
+      height: 65px;
+      width: 100%;
+      min-width: 100%;
+      border-bottom: 1px solid #e9e9e9; }
+
+    .logo-block {
+      padding-left: 20px;
+      display: table-cell !important;
+      min-height: 38px !important; }
+
+    .head-link {
+      float: right;
+      padding-right: 30px;
+      line-height: 1;
+      font-size: 14px;
+      text-decoration: none;
+      color: #45688f; }
+
+    .foot-sep {
+      vertical-align: middle;
+      font-size: 10px; }
+
+    .content {
+      background-color: #fff;
+      padding: 0; }
+
+    .footer {
+      width: 100%;
+    }
+
+    .help-links-td {
+      padding-top: 15px; }
+
+    .help-links {
+      width: 100%;
+      margin: 0 auto;
+      text-align: center; }
+    @media (min-width: 700px) {
+      .help-links {
+        width: 80% !important; } }
+
+    .footer-item {
+      display: inline-block;
+      text-align: center;
+      width: 60px;
+      line-height: 1; }
+    @media (min-width: 700px) {
+      .footer-item {
+        width: auto !important; } }
+
+    .foot-link {
+      text-decoration: none;
+      font-size: 11px;
+      color: #45688f; }
+    @media (min-width: 700px) {
+      .foot-link {
+        font-size: 12px !important; } }
+
+    .link {
+      color: #45688f;
+      text-decoration: none;
+      font-size: 14px;
+      word-break: break-all; }
+    @media (min-width: 700px) {
+      .link {
+        font-size: 16px !important; } }
+
+    a.link:hover {
+      text-decoration: underline !important; }
+
+    .main-img-wrap {
+      padding-top: 25px;
+      text-align: center; }
+    .main-img-wrap img {
+      width: 128px;
+      height: 128px;
+      border-radius: 4px;
+      background-color: #e9e9e9; }
+
+    .main-title {
+      padding: 5px 0 15px;
+      text-align: center;
+      font-size: 22px;
+      color: #2c2c2c; }
+    @media (min-width: 700px) {
+      .main-title {
+        padding: 0px 0 24px !important;
+        font-size: 24px !important; } }
+    .end-of-letter {
+      padding-top: 20px;
+      padding-bottom: 25px;
+      font-size: 14px;
+      text-align: left; }
+    @media (min-width: 700px) {
+      .end-of-letter {
+        padding-top: 30px !important;
+        padding-bottom: 36px !important;
+        font-size: 16px !important; } }
+
+    .desc-text {
+      margin: 0;
+      padding: 0;
+      text-align: left;
+      font-size: 14px; }
+    @media (min-width: 700px) {
+      .desc-text {
+        font-size: 16px !important; } }
+    .desc-text span {
+      font-weight: normal; }
+    .pin {
+      font-size: 40px;
+      text-align: center;
+    }
+    span.preheader {
+      display: none!important;
+    }
+    .link-block {
+      text-align: center;
+      padding-bottom: 10px;
+      border-collapse: collapse;
+      border-spacing: 0;
+      width: 99%;
+    }
+    @media (min-width: 700px) {
+      .link-block {
+        padding-bottom: 15px !important; } }
+
+    .link-block__content {
+      padding: 22px;
+      background-color: #f5f5f5;
+      border-collapse: collapse;
+      border-spacing: 0;
+    }
+    @media (min-width: 700px) {
+      .link-block__content {
+        padding: 24px !important; } }
+  </style>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" inline="inline"/>
+</head>
+<body style="background-color: #f7f8fa!important;" class="body">
+<span class="preheader">Please, follow the link in the email to get acces to the Slate.</span>
+<table class="align-block">
+  <tr>
+    <td style="height:15px;">
+      <p> </p>
+    </td>
+  </tr>
+   <tr>
+    <td style="padding:0;">
+      <table class="main-content">
+        <tr>
+          <td style="padding:0;">
+            <table style="background-color: #fff;" class="header">
+              <tr>
+                <td class="logo-block"><a href="https://www.airslate.com/?utm_source=invite_questionnaire&utm_medium=email&utm_campaign=as-share_slate&utm_content=logo"><img src="https://static.pdffiller.com/mail-templates/img/common/airslate/as.png" alt="airSlate logo" width="114" height="24"/></a></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0;">
+            <table style="background-color: #fff;width:100%;">
+              <tr>
+                <td class="content">
+                  <table style="width:100%;">
+                    <tr>
+                      <td class="padding-main"> </td>
+                      <td class="main-img-wrap">
+                        <p class="main-title main-title--padding-top">Slate has been shared with you</p>
+                      </td>
+                      <td class="padding-main"> </td>
+                    </tr>
+                    <tr>
+                      <td class="padding-main"> </td>
+                      <td>
+                        <p class="desc-text"><span> We need your opinion on airSlate! Please, spend only 5 minutes answering a few questions, your opinion will help us become better. Follow the link below to get access to the Slate and give your feedback:</p>
+                      </td>
+                      <td class="padding-main"> </td>
+                    </tr>
+                    <tr>
+                      <td class="padding-main"> </td>
+                      <td><br/>
+                        <table class="link-block">
+                          <tr>
+                            <td class="link-block__content">
+                              <a href="https://arsl.at/xue4dh" class="link" target="_blank" >https://arsl.at/xue4dh</a>
+                            </td>
+                          </tr>
+                        </table><br/>
+                      </td>
+                      <td class="padding-main"> </td>
+                    </tr>
+                    <tr>
+                      <td class="padding-main"> </td>
+                      <td>
+                        <p class="desc-text">If you have any questions, please contact our <a href="mailto:support@airslate.com" class="link link--align-left">support team</a>.</p>
+                      </td>
+                      <td class="padding-main"> </td>
+                    </tr>
+                    <tr>
+                      <td class="padding-main"> </td>
+                      <td>
+                        <p class="end-of-letter">Best regards, <br/>The airSlate Team</p>
+                      </td>
+                      <td class="padding-main"> </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <table class="footer" style="margin-top: 10px">
+        <tr>
+          <td class="help-links-td">
+            <table class="help-links">
+              <tr>
+                <td class="footer-item"><a href="https://my.airslate.com/login?utm_source=invite_questionnaire&utm_medium=email&utm_campaign=as-share_slate&utm_content=password" class="foot-link">Forgot Password?</a></td>
+                <td class="foot-sep">
+                  <p style="font-size:6px;">|</p>
+                </td>
+                <td class="footer-item"><a href="mailto:support@airslate.com" class="foot-link">Contact Support</a></td>
+                <td class="foot-sep">
+                  <p style="font-size:6px;">|</p>
+                </td>
+                <td class="footer-item"><a href="https://www.airslate.com/terms-of-service?utm_source=invite_questionnaire&utm_medium=email&utm_campaign=as-share_slate&utm_content=terms" class="foot-link">Terms of Services</a></td>
+                <td class="foot-sep">
+                  <p style="font-size:6px;">|</p>
+                </td>
+                <td class="footer-item"><a href="https://www.airslate.com/privacy-policy?utm_source=invite_questionnaire&utm_medium=email&utm_campaign=as-share_slate&utm_content=policy" class="foot-link">Privacy Policy</a></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding-top:10px;padding-bottom:16px;"></td>
+        </tr>
+        <tr>
+                          <td style="border-collapse: collapse; border-spacing: 0; font-weight: normal; padding: 0; text-decoration: none;">
+                            <hr style="border: 1px solid #f3f3f3; margin: 0 0 20px;">
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="padding-top:5px;padding-right:10px;padding-left:10px;text-align:center;font-size:11px;font-weight:400;color:#777;">
+                  <p style="font-size:12px;color:#8A8A8A;">{%year_copyright%}<br>{%address%}</td>
+                        </tr></p>
+              <tr>
+                <td style="padding-top:5px;padding-right:10px;padding-left:10px;text-align:center;font-size:11px;font-weight:400;color:#777;">
+                  <p style="font-size:12px;color:#8A8A8A;">If you no longer wish to receive emails from airSlate, please click <a href="https://www.airslate.com/unsubscribe?utm_source=invite_questionnaire&utm_medium=email&utm_campaign=as-share_slate&utm_content=unsubscribe" target="_blank" style="color:#45688f;font-size:12px;">here</a>.</p>
+                </td>
+              </tr>
+            </table>
+          
+    </td>
+  </tr>
+  <tr>
+    <td style="height:15px;">
+      <p> </p>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
